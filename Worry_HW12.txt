@@ -22,6 +22,9 @@ body {
 }
 </style>
 
+should be a, not body
+missing text-decoration
+
 2.body {
 	background-color: #FFF8DC;
 	color: #000099;
@@ -30,3 +33,4 @@ body {
 #new {
 	font-style: bold and italics:
 }
+missing wonf-weight
